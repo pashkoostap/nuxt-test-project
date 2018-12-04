@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1090px" height="1034px" viewBox="0 0 1090 1034" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>circles</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="114.163773%" y1="126.036352%" x2="23.0389818%" y2="16.0242228%" id="linearGradient-1">
+            <stop stop-color="#FFE0EC" offset="0%"></stop>
+            <stop stop-color="#F0C1F0" stop-opacity="0.992339752" offset="19.2339183%"></stop>
+            <stop stop-color="#AF3FFF" stop-opacity="0.960173234" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="90.7335069%" y1="88.0530197%" x2="17.046441%" y2="10.9375%" id="linearGradient-2">
+            <stop stop-color="#591EEA" stop-opacity="0.248046875" offset="0%"></stop>
+            <stop stop-color="#5724EB" stop-opacity="0.280391178" offset="24.4955181%"></stop>
+            <stop stop-color="#2C9EFE" offset="100%"></stop>
+        </linearGradient>
+        <path d="M564.222912,585 C561.849882,583.295112 560.099542,581.699314 558.971893,580.212606 C557.280419,577.982543 556.907602,577.104497 556.44302,574.129158 C556.0586,571.667209 555.924359,569.809245 556.040295,568.555267 L556.098545,566.131584 L556.098545,566.131584 C556.134608,564.631062 557.380256,563.443884 558.880778,563.479947 C560.325477,563.514668 561.490355,564.673924 561.532067,566.118438 L561.532067,566.118438 L561.473218,556.444296 L561.473218,556.444296 L561.473218,556.444296 C561.458801,555.041614 562.584212,553.892828 563.986895,553.878411 C564.843977,553.869602 565.647693,554.293666 566.124214,555.006123 L566.274579,555.230938 L566.616523,559.663457 L566.803675,554.012523 L566.82244,553.945161 L566.82244,553.945161 C567.21633,552.531236 568.681854,551.704333 570.09578,552.098223 C571.016319,552.354666 571.728313,553.085577 571.960535,554.012523 L571.960535,554.012523 L572.112122,559.663457 L572.483218,554.012523 L572.508898,553.914766 L572.508898,553.914766 C572.845435,552.633681 574.156777,551.867974 575.437861,552.204511 C576.309606,552.433516 576.979351,553.131946 577.171617,554.012523 L577.171617,554.012523 L577.487034,559.663457 C577.44766,557.912502 577.63141,556.643221 578.038285,555.855613 C578.038285,555.855613 578.038285,555.855613 578.038285,555.855613 L578.038285,555.855613 C578.514412,554.93395 579.647546,554.572771 580.569209,555.048899 C581.166874,555.357649 581.553796,555.962441 581.583605,556.634484 L581.735833,560.065927 C582.088056,564.735567 582.088056,569.743879 581.735833,575.090861 C581.545297,577.983321 581.105255,579.03589 580.298092,580.673378 C579.759983,581.765037 578.7118,583.002886 577.153544,584.386926" id="path-3"></path>
+    </defs>
+    <g id="sign" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landing" transform="translate(-80.000000, 0.000000)">
+            <g id="circles" transform="translate(81.000000, -55.000000)">
+                <circle id="Oval-3" stroke="url(#linearGradient-1)" fill-opacity="0.03" fill="#0A0F2C" opacity="0.100000001" cx="544" cy="544" r="544"></circle>
+                <circle id="Oval-3" stroke="url(#linearGradient-1)" fill-opacity="0.03" fill="#0A0F2C" opacity="0.149999991" cx="545.5" cy="545.5" r="372.5"></circle>
+                <circle id="Oval-3" stroke="url(#linearGradient-1)" fill-opacity="0.03" fill="#0A0F2C" opacity="0.200000003" cx="547" cy="547" r="262"></circle>
+                <circle id="Oval-3" stroke="url(#linearGradient-1)" fill-opacity="0.03" fill="#0A0F2C" opacity="0.25" cx="545" cy="545" r="171"></circle>
+                <circle id="Oval-3" stroke="url(#linearGradient-1)" fill-opacity="0.03" fill="#0A0F2C" opacity="0.300000012" cx="544.5" cy="544.5" r="105.5"></circle>
+                <path d="M543.5,584 C565.867532,584 584,565.867532 584,543.5 C584,521.132468 565.867532,503 543.5,503 C521.132468,503 503,521.132468 503,543.5" id="Oval-3" stroke="url(#linearGradient-1)" fill-opacity="0.03" fill="#0A0F2C" opacity="0.349999994" transform="translate(543.500000, 543.500000) rotate(-90.000000) translate(-543.500000, -543.500000) "></path>
+                <g id="Path-2" opacity="0.349999994">
+                    <use stroke="url(#linearGradient-2)" fill-opacity="0.03" fill="#0A0F2C" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <use stroke="url(#linearGradient-1)" xlink:href="#path-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
